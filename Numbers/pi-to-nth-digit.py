@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 15 16:47:59 2017
 Calculates pi to user defined decimal point.
-@author: zach
+@author: zachtmartin
 """
 from decimal import *
 

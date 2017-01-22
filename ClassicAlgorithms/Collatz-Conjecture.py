@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 21 12:05:34 2017
 Count number of steps to 1 using Collatz Conjecture
-@author: zach
+@author: zachtmartin
 """
 
 n = input("What's the number?")
